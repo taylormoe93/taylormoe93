@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently attending Prime Digital Academy, an intensive, full-time, five-month software development program in Minneapolis, MN.
-- 💬 Ask me about my pined solo project Bookworm and my pinned group client project for OQH.
+- 💬 Ask me about my solo project Bookworm and my group client project for OQH. Both are pinned below as they become available.
 - :pencil2: Take a look at the readme files for both projects to see their documentation and learn how you can see them in action.
 - 📫 How to reach me: https://taylorcmoe.carrd.co/ 
 
